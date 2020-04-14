@@ -18,6 +18,6 @@ Then, in the inspector, move over the elements till you see the group members hi
 
 Download wa.py, and have python installed. Run it like this
 
-_>python wa.py <your filename>_
+_>python wa.py "your filename"
 
 
