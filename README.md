@@ -1,4 +1,4 @@
-## A quick and dirty script to parse whatsapp DOM to extract contact info
+A quick and dirty script to parse whatsapp DOM to extract contact info
 
 this script expects the whatsapp data and extracts contact info out of it. It will likely break as WhatsApp changes its DOM
 
