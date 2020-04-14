@@ -6,7 +6,7 @@ this script expects the whatsapp data and extracts contact info out of it. It wi
 
 First, get the info you need out of the DOM. Log into Whatsapp, and click on the group you want to extract contact info out of. 
 
-Open the Web Inspector. In Chromium based browsers, this will be under view->Develop. on the mac you can access it via <cmd><opt><i>
+Open the Web Inspector. In Chromium based browsers, this will be under view->Develop. on the mac you can access it via cmd+opt+i
 
 Open the 'Group Info'. It will list all the participants. Scroll down to the end and click on 'more' till all the partipants are shown in the scroll view
 
